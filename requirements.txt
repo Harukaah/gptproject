@@ -1,0 +1,9 @@
+torch>=2.1
+numpy>=1.26
+tqdm>=4.66
+transformers>=4.44
+sentencepiece>=0.2
+matplotlib>=3.8
+pandas>=2.2
+seaborn>=0.13
+accelerate>=0.33
