@@ -24,4 +24,4 @@ python train.py --device cuda --data_dir data --epochs 1 --max_steps 50000 --bat
 python generate.py --ckpt checkpoints\gpt_step50000.pt --tokenizer_name "airesearch/wangchanberta-base-att-spm-uncased" --prompt "ซื้อขายที่ดินต้องเป็นหนังสือ มิฉะนั้นสัญญาเป็นโมฆะทันที" --max_new_tokens 200 --temperature 0.9 --top_p 0.95
 
 ```
-
+## Please download the data and gpt_step50000.pt I have provided in canvas for generating text
